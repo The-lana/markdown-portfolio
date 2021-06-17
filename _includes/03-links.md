@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[git url](https://github.com/The-lana/markdown-portfolio/pull/3)
